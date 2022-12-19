@@ -1,8 +1,9 @@
 # HCA_Heart_ver2
 
-This is the working repository for the processing and analysis of the HCA Heart data in collaboration with:
-Teichmann Lab - Wellcome Sanger Institute - Cambridge, United Kingdom.
-Noseda Lab - Imperial College London - London, United Kingdom.
+This is the working repository for the processing and analysis of the HCA Heart data in collaboration with:<br>
+<br>
+**Teichmann Lab** - Wellcome Sanger Institute - Cambridge, United Kingdom.<br>
+**Noseda Lab** - Imperial College London - London, United Kingdom.
 
 ## Structure
 ### GEX
