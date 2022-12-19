@@ -14,12 +14,12 @@ Noseda Lab - Imperial College London - London, United Kingdom.
 6. pyScenic
 7. drug2cell
 
-## ATAC
+### ATAC
 1. QC, creating ArchR project, gene scoring
 2. Peak calling
 3. PeakVI
 
-## Visium
+### Visium
 1. QC, Cell2location
 2. Structural annotation
 3. Niche identification
@@ -29,5 +29,5 @@ Noseda Lab - Imperial College London - London, United Kingdom.
 4. Cell-cell interactions
 5. SAN-RAGP
 
-## Acknowledgments
+### Acknowledgments
 This repository is dedicated to the memory of our dear friend and colleague Dr. Daniele Muraro who contributed to this analysis.
