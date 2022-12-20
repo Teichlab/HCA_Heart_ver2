@@ -6,7 +6,7 @@ This is the working repository for the processing and analysis of the HCA Heart 
 **Noseda Lab** - Imperial College London - London, United Kingdom.
 
 ## Structure
-### GEX
+### RNA
 1. QC
 2. Integration
 3. Cell type annotations
