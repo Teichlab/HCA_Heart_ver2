@@ -9,11 +9,10 @@ This is the working repository for the processing and analysis of the HCA Heart 
 ### RNA
 1. QC
 2. Integration
-3. Cell type annotations
-4. Pacemaker cell characterisation
-5. Transfer cell state labels to cardiomyopathy dataset
-6. pyScenic
-7. drug2cell
+3. Pacemaker cell characterisation
+4. Transfer cell state labels to cardiomyopathy dataset
+5. pyScenic
+6. drug2cell
 
 ### ATAC
 1. QC, creating ArchR project, gene scoring
