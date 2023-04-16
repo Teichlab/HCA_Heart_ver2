@@ -29,5 +29,5 @@ This is the working repository for the processing and analysis of the HCA Heart 
 4. Cell-cell interactions
 5. SAN-RAGP
 
-### Acknowledgments
+## Acknowledgments
 This repository is dedicated to the memory of our dear friend and colleague Dr. Daniele Muraro who contributed to this analysis.
