@@ -25,7 +25,7 @@ This is the working repository for the processing and analysis of the HCA Heart 
 3. Niche identification
   - cell2loc-NMF, Node
   - cell2loc-NMF, Immune
-  - ROI enrichment analysis
+  - Cell state spatial enrichment analysis
 4. Cell-cell interactions
 5. SAN-RAGP
 
