@@ -1,6 +1,6 @@
 # Spatially resolved multiomics of human cardiac niches
 
-Data processing and analysis note books for [adult heart atlas, ver2](https://www.biorxiv.org/content/10.1101/2023.01.30.526202v2)
+Data processing and analysis notebooks for [adult heart atlas, ver2](https://www.biorxiv.org/content/10.1101/2023.01.30.526202v2)
 
 This is the working repository for the processing and analysis of the HCA Heart data in collaboration with:<br>
 <br>
