@@ -7,11 +7,8 @@ Data processing and analysis for [adult heart atlas, ver2](https://www.biorxiv.o
 ## Contents
 ### RNA
 1. QC
-2. Integration
-3. Pacemaker cell characterisation
-4. Transfer cell state labels to cardiomyopathy dataset
-5. pyScenic
-6. drug2cell
+2. Integration, Celltype annotation
+3. CCS
 
 ### ATAC
 1. QC, creating ArchR project, gene scoring
