@@ -8,24 +8,25 @@ Processed data of sc/snRNAseq and Visium data are available for browsing and dow
 
 ## Contents
 ### RNA
-1. QC
-2. Integration, Celltype annotation
-3. CCS
+* QC
+* Integration, Celltype annotation
+* CCS
 
 ### ATAC
-1. QC, creating ArchR project, gene scoring
-2. Peak calling
-3. PeakVI
+* QC
+* Peak calling
+* Peak-to-Gene (ArchR)
+* Dimensional reduction, integration (PeakVI)
 
 ### Visium
-1. QC, Cell2location
-2. Structural annotation
-3. Niche identification
-  - cell2loc-NMF, Node
-  - cell2loc-NMF, Immune
-  - Cell state spatial enrichment analysis
-4. Cell-cell interactions
-5. SAN-RAGP
+* QC, Cell2location mapping
+* Cell2location NMF
+* Cell state spatial enrichment analysis
+* Matching NMF-factors and histological annotations 
+* CCS niche
+* Immune niche
+* Myocardial-stress niche
+* SAN-RAGP
 
 ## Acknowledgments
 This repository is dedicated to the memory of our dear friend and colleague Dr. Daniele Muraro who contributed to this analysis.
