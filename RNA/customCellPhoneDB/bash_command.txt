@@ -1,0 +1,9 @@
+# On the command line, make a directory for analysis, cd to that and place the custom inputs files there
+# Make virtual environment
+conda create -n cpdb python=3.7
+source activate cpdb
+# Install cpdb
+pip install cellphonedb
+# Use the following command to generate custom db for manually created 'complex' and 'interactions' files
+cellphonedb database generate --user-complex complex_input.csv --user-interactions interaction_input.csv
+# database and associated files are on the 'out' directory
