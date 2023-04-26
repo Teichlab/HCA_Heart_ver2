@@ -1,4 +1,4 @@
-# On the command line, make a directory for analysis, cd to that and place the custom inputs files there
+# On the command line, make a directory for analysis, cd to that and place the custom 'interactions' and 'complexes' input files there
 # Make virtual environment
 conda create -n cpdb python=3.7
 source activate cpdb
