@@ -16,8 +16,7 @@ Processed data of sc/snRNAseq and Visium data are available for browsing and dow
 * Dimensional reduction, integration (PeakVI)
 
 ### Visium
-* QC, Cell2location mapping
-* Cell2location NMF
+* Cell2location (spatial mapping, NMF)
 * Cell state spatial enrichment analysis
 * Matching NMF-factors and histological annotations 
 * CCS niche
