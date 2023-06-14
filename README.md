@@ -19,7 +19,7 @@ Processed data of sc/snRNAseq and Visium data are available for browsing and dow
 * Cell2location (spatial mapping, NMF)
 * Cell state spatial enrichment analysis
 * Matching NMF-factors and histological annotations 
-* CCS niche
+* Nodal niche
 * Immune niche
 * Myocardial-stress niche
 * SAN-RAGP
