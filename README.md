@@ -1,6 +1,6 @@
 # Spatially resolved multiomics of human cardiac niches
 
-Data processing and analysis for [adult heart atlas, ver2](https://www.nature.com/articles/s41586-023-06311-1#citeas)</br>
+Data processing and analysis for [adult heart atlas, ver2](https://www.nature.com/articles/s41586-023-06311-1)</br>
 Processed data of sc/snRNAseq and Visium data are available for browsing and download via [heartcellatlas.org](https://www.heartcellatlas.org/)
 
 ## Contents
@@ -26,20 +26,18 @@ Processed data of sc/snRNAseq and Visium data are available for browsing and dow
 
 ## Citation
 Spatially resolved multiomics of human cardiac niches
-[https://doi.org/10.1038/s41586-023-06311-1](https://www.nature.com/articles/s41586-023-06311-1#citeas)
+[https://doi.org/10.1038/s41586-023-06311-1](https://www.nature.com/articles/s41586-023-06311-1)
 
 ```
-@article {Kanemaru2023.01.30.526202,
-	author = {Kanemaru, Kazumasa and Cranley, James and Muraro, Daniele and Miranda, Antonio M.A. and Pett, Jan Patrick and Litvinukova, Monika and Kumasaka, Natsuhiko and Ho, Siew Yen and Polanski, Krzysztof and Richardson, Laura and Mach, Lukas and Dabrowska, Monika and Richoz, Nathan and Barnett, Sam N. and Perera, Shani and Wilbrey-Clark, Anna L and Talavera-L{\'o}pez, Carlos and Mulas, Ilaria and Mahbubani, Krishnaa T. and Bolt, Liam and Mamanova, Lira and Tuck, Liz and Wang, Lu and Huang, Margaret M. and Prete, Martin and Pritchard, Sophie and Dark, John and Saeb-Parsy, Kourosh and Patel, Minal and Clatworthy, Menna R. and Chowdhury, Rasheda A. and Noseda, Michela and Teichmann, Sarah A.},
-	title = {Spatially resolved multiomics of human cardiac niches},
-	elocation-id = {2023.01.30.526202},
-	year = {2023},
-	doi = {10.1101/2023.01.30.526202},
-	publisher = {Cold Spring Harbor Laboratory},
-	abstract = {A cell{\textquoteright}s function is defined by its intrinsic characteristics and its niche: the tissue microenvironment in which it dwells. Here, we combine single-cell and spatial transcriptomic data to discover cellular niches within eight regions of the human heart. We map cells to micro-anatomic locations and integrate knowledge-based and unsupervised structural annotations. For the first time, we profile the cells of the human cardiac conduction system, revealing their distinctive repertoire of ion channels, G-protein coupled receptors, and cell interactions using a custom CellPhoneDB.org module. We show that the sinoatrial node is compartmentalised, with a core of pacemaker cells, fibroblasts and glial cells supporting paracrine glutamatergic signalling. We introduce a druggable target prediction tool, drug2cell, which leverages single-cell profiles and drug-target interactions, providing unexpected mechanistic insights into the chronotropic effects of drugs, including GLP-1 analogues. In the epicardium, we show enrichment of both IgG+ and IgA+ plasma cells forming immune niches which may contribute to infection defence. We define a ventricular myocardial-stress niche enriched for activated fibroblasts and stressed cardiomyocytes, cell states that are expanded in cardiomyopathies. Overall, we provide new clarity to cardiac electro-anatomy and immunology, and our suite of computational approaches can be deployed to other tissues and organs.Competing Interest StatementIn the past three years, S.A.T. has consulted or been a member of scientific advisory boards at Roche, Genentech, Biogen, GlaxoSmithKline, Qiagen and ForeSite Labs and is an equity holder of Transition Bio. The remaining authors declare no competing interests.},
-	URL = {https://www.biorxiv.org/content/early/2023/02/01/2023.01.30.526202},
-	eprint = {https://www.biorxiv.org/content/early/2023/02/01/2023.01.30.526202.full.pdf},
-	journal = {bioRxiv}
+@article{Kanemaru2023,
+  doi = {10.1038/s41586-023-06311-1},
+  url = {https://doi.org/10.1038/s41586-023-06311-1},
+  year = {2023},
+  month = jul,
+  publisher = {Springer Science and Business Media {LLC}},
+  author = {Kazumasa Kanemaru and James Cranley and Daniele Muraro and Antonio M. A. Miranda and Siew Yen Ho and Anna Wilbrey-Clark and Jan Patrick Pett and Krzysztof Polanski and Laura Richardson and Monika Litvinukova and Natsuhiko Kumasaka and Yue Qin and Zuzanna Jablonska and Claudia I. Semprich and Lukas Mach and Monika Dabrowska and Nathan Richoz and Liam Bolt and Lira Mamanova and Rakeshlal Kapuge and Sam N. Barnett and Shani Perera and Carlos Talavera-L{\'{o}}pez and Ilaria Mulas and Krishnaa T. Mahbubani and Liz Tuck and Lu Wang and Margaret M. Huang and Martin Prete and Sophie Pritchard and John Dark and Kourosh Saeb-Parsy and Minal Patel and Menna R. Clatworthy and Norbert H\"{u}bner and Rasheda A. Chowdhury and Michela Noseda and Sarah A. Teichmann},
+  title = {Spatially resolved multiomics of human cardiac niches},
+  journal = {Nature}
 }
 ```
 
